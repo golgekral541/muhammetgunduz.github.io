@@ -1,0 +1,16 @@
+# app-ads.txt for muhammetgunduz.github.io
+# This file is used to declare authorized digital sellers for mobile app advertising inventory
+# Format: <domain>, <publisher ID>, <relationship type>, <certification authority ID (optional)>
+# Relationship types: DIRECT (you sell directly) or RESELLER (they sell on your behalf)
+
+# Example entries - Replace with your actual ad network information:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# facebook.com, 000000000000000, RESELLER, c3e20eee3f780d68
+# unity3d.com, 0000000, DIRECT, 96cabb5fbdde37a7
+
+# To use this file:
+# 1. Replace the example entries above with your actual ad network domains and publisher IDs
+# 2. Remove or comment out this instruction section
+# 3. Ensure this file is accessible at: https://muhammetgunduz.github.io/app-ads.txt
+# 4. Update your app store developer website URL to point to this domain
+# 5. Note: For AdMob and most ad networks to verify, you may need a custom domain (not *.github.io)
